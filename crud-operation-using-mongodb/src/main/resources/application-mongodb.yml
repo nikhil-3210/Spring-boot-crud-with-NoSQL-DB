@@ -2,6 +2,6 @@ spring:
   data:
     mongodb:
       database: SpringMongoCrud
-      uri: mongodb+srv://root:root@springmongocrud.bk7o9.mongodb.net/?retryWrites=true&w=majority&appName=SpringMongoCrud
+      uri: git
       username: root
       password: root
